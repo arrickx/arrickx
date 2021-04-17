@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @arrickx
-- 👀 I’m interested in Coding
+- 👋 Hi, I’m Richter lau - @arrickx
+- 👀 I’m interested in Coding and solving problems
 - 🌱 I’m currently learning wechat mini app development
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me by email.
