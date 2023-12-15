@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Richter lau - @arrickx
+![]([https://capsule-render.vercel.app/api?type=waving](https://capsule-render.vercel.app/api?type=waving&text=Hello%World!&animation=fadeIn&theme=tokyonight))
+- 👋 Hi, I’m Richter lau. I'm a Software Engineer based on New York City.
 - 👀 I’m interested in Coding and solving problems
 
 <!---
