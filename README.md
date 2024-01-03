@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Richter lau. I'm a Software Engineer based on New York City.
 - 🌱 I’m currently learning the language of efficient structures (Design Patterns) and unlocking the doors of imagination (Generative AI) Stay tuned for exciting creations!. 
-- [Learn more](arrickx.github.io)
+- [Learn more](https://arrickx.github.io/)
